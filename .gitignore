@@ -1,5 +1,5 @@
 *.class
-tempRunner*
+tempCodeRunner*
 .vscode/
 .DS_Store
 Thumbs.db
